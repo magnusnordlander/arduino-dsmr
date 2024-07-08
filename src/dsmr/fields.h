@@ -210,8 +210,8 @@ namespace dsmr
       static constexpr char dm3[] = "dm3";
       static constexpr char GJ[] = "GJ";
       static constexpr char MJ[] = "MJ";
-      static constexpr char kvar[] = "kvar";
-      static constexpr char kvarh[] = "kvarh";
+      static constexpr char kvar[] = "kVAr";
+      static constexpr char kvarh[] = "kVArh";
     };
 
     const uint8_t GAS_MBUS_ID = DSMR_GAS_MBUS_ID;
